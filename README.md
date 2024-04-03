@@ -8,3 +8,16 @@ Add another line which will create a conflict for local machine.
 This is another line.
 
 This is another line.
+
+
+# heading
+
+## smaller heading
+
+### smalest
+
+* some text
+
+- some text
+
+[]
